@@ -5,26 +5,23 @@
 	background-color:red;
 }
 div{ 
-	font-family: arial;
-	height:20%;
-	font-size:40px;
-	margin-left: 1%;
-	margin-right: 80%;
-	margin-top: 2%;	
+	display: inline-block;
+	margin: 1%;	
+	
+
 
 }
 .pdl5{
-	padding-left: 5px;
+padding-left: 5%;
 }
 .pdt5{
-	padding-top: -10%;
+
+	padding: 0% 15% 5% 1%;
 }
 .may{
+
 	text-transform: uppercase;
-}
-p{
-	display: inline-block;
-	font-size: 50%;
-	padding-bottom: 15%;
-	padding-left: 10%;
+	}
+	p{
+
 }
